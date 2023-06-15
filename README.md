@@ -21,7 +21,7 @@ Interface web qui permet aux utilisateurs d'interagir facilement avec différent
     - [Facebook : bart-large-cnn](https://huggingface.co/facebook/bart-large-cnn)
     - [Helsinki-NLP/opus-mt-en-fr](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr)
  
- #### Liens des notebooks Kagle sur lequel j'ai fait des tests
+ #### Liens des notebooks Kagle sur lesquels j'ai fait des tests
 
  - https://www.kaggle.com/code/robertojustino/nlp-test-summarize-12-06-2023
  - https://www.kaggle.com/code/robertojustino/nlp-test-translation-inference-api
